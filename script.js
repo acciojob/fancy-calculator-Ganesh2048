@@ -1,4 +1,6 @@
 //your JS code here. If required.
-prompt(x);
-prompt(y);
-alert(console.log("The final result is: "+(2*x)+y));
+let f=prompt(x);
+let r=parseInt(f)
+let k=prompt(y);
+r+=k;
+alert(console.log("The final result is: "+r);
