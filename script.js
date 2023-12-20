@@ -1,6 +1,6 @@
 //your JS code here. If required.
-let f=prompt("x");
-let r=parseInt(f)*2;
-let k=prompt("y");
+let f=prompt();
+let r=(parseInt(f)*2);
+let k=prompt();
 r+=parseInt(k);
-alert(console.log("The final result is: "+r);
+alert("The final result is: "+r);
